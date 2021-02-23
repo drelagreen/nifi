@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.3
+Built-By: dmitr
+Build-Jdk: 11.0.10
+Build-Timestamp: 2021-02-23T21:51:22Z
+Clone-During-Instance-Class-Loading: false
+Nar-Version: 2.0
+Build-Tag: nifi-1.12.1-RC2
+Nar-Group: ru.greenatom
+Nar-Id: nifi-nifixmlsigner-processors
+
