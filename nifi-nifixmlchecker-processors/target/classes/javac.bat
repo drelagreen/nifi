@@ -1,0 +1,1 @@
+cmd.exe /X /C "C:\Users\dmitr\.jdks\liberica-11.0.10\bin\javac.exe @E:/work/nifixmlchecker/nifi-nifixmlchecker-processors/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler16364780495464969605arguments"
